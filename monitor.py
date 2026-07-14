@@ -74,12 +74,14 @@ def main() -> int:
     for w in cfg.get("watchlist", []) or []:
         if isinstance(w, str):
             watchlist.append({"match": w.lower(), "sites": None,
-                              "statuses": [AVAILABLE, PREORDER]})
+                              "statuses": [AVAILABLE, PREORDER],
+                              "new_only": False})
         else:
             watchlist.append({
                 "match": str(w.get("match", "")).lower(),
                 "sites": w.get("sites") or None,
                 "statuses": w.get("statuses") or [AVAILABLE, PREORDER],
+                "new_only": bool(w.get("new_only", False)),
             })
     watchlist = [w for w in watchlist if w["match"]]
     notify_cfg = cfg.get("notify", {})
@@ -122,7 +124,7 @@ def main() -> int:
             else:
                 was, now = old.get("status"), p.status
                 if was != now:
-                    if now == AVAILABLE and was in (OOS, "unknown"):
+                    if now == AVAILABLE:
                         events["restock"].append(tag + line(p))
                     elif now == PREORDER and was != PREORDER:
                         events["preorder"].append(tag + line(p))
@@ -132,18 +134,23 @@ def main() -> int:
                     events["price"].append(
                         f"{tag}{line(p)} (was {esc(old['price'])})")
 
-            # Watchlist: rule-based priority alerts
+            # Watchlist: rule-based priority alerts ("*" matches any item).
+            # All rules are checked; a product pings at most once per run.
             for rule in watchlist:
-                if rule["match"] not in p.name.lower():
+                if rule["match"] != "*" and rule["match"] not in p.name.lower():
                     continue
                 if rule["sites"] and p.site not in rule["sites"]:
+                    continue
+                if rule["new_only"] and old is not None:
                     continue
                 hit = p.status in rule["statuses"] and (
                     old is None or old.get("status") not in rule["statuses"]
                 )
                 if hit and not first_run:
-                    priority.append(tag + line(p) + f" — <b>{p.status}</b>")
-                break
+                    label = "NEW pre-order" if (old is None and p.status == PREORDER) \
+                        else p.status
+                    priority.append(tag + line(p) + f" — <b>{label}</b>")
+                    break
 
     # Carry forward items from sites that errored so we don't lose state
     for key, val in state.items():

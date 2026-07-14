@@ -18,29 +18,25 @@ keywords:
 # Add or remove lines anytime.
 # ------------------------------------------------------------
 # ------------------------------------------------------------
-# WATCHLIST — your priority items.
-# Two formats, mix freely:
-#   Simple:  - "UX-20"          -> pings for ANY site, available OR preorder
-#   Scoped:  - match: "UX-20"
-#              sites: [toysrus]          # limit to these site ids (omit = all)
-#              statuses: [available]     # omit = [available, preorder]
+# WATCHLIST — priority 🔥 alert rules.
+# Formats, mix freely:
+#   Simple:    - "UX-20"        -> any site, becomes available OR preorder
+#   Scoped:    - match: "UX-20"
+#                sites: [toysrus]        # limit to these site ids (omit = all)
+#                statuses: [available]   # omit = [available, preorder]
+#   Wildcard:  match: "*"  -> ANY tracked Beyblade item
 # ------------------------------------------------------------
 watchlist:
-  - match: "UX-20"
+  # Ping me when ANY Beyblade X item becomes buyable at Toys"R"Us
+  # (covers out_of_stock -> available AND preorder -> available)
+  - match: "*"
     sites: [toysrus]
     statuses: [available]
-  - match: "UX-21"
+  # Also ping when a brand-new item appears at TRU as a pre-order
+  - match: "*"
     sites: [toysrus]
-    statuses: [available]
-  - match: "UX-15"
-    sites: [toysrus]
-    statuses: [available]
-  - match: "BX-50"
-    sites: [toysrus]
-    statuses: [available]
-  - match: "BX-49"
-    sites: [toysrus]
-    statuses: [available]
+    statuses: [preorder]
+    new_only: true
 
 # ------------------------------------------------------------
 # SITES — set enabled: false to pause a site without deleting it.
