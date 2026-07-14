@@ -59,7 +59,7 @@ sites:
 
   - id: toygarden
     name: "Toy Garden"
-    enabled: true
+    enabled: false
     urls:
       - "https://www.toygarden.com/collection/beyblade"
 
