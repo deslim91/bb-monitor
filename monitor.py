@@ -183,7 +183,7 @@ def main() -> int:
         print("ERRORS:\n" + "\n---\n".join(errors))
         # Only nag about errors once per day (03:00–03:15 UTC window)
         import datetime
-        now = datetime.datetime.utcnow()
+        now = datetime.datetime.now(datetime.timezone.utc)
         if now.hour == 3 and now.minute < 20:
             send_telegram("⚠️ Monitor had scraper errors today:\n" +
                           "\n".join(e.splitlines()[0] for e in errors))

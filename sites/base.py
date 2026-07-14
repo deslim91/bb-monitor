@@ -37,8 +37,24 @@ class Product:
 
 def fetch(url: str, timeout: int = 30) -> str:
     resp = requests.get(url, headers=HEADERS, timeout=timeout)
+    if resp.status_code in (403, 503):
+        # Cloudflare or bot-block: retry with cloudscraper
+        import cloudscraper
+        scraper = cloudscraper.create_scraper(
+            browser={"browser": "chrome", "platform": "windows", "desktop": True}
+        )
+        resp = scraper.get(url, timeout=timeout)
     resp.raise_for_status()
     return resp.text
+
+
+def dump_debug(site_id: str, html: str, url: str) -> None:
+    """Save raw HTML so the workflow uploads it as an artifact for diagnosis."""
+    fname = f"debug_{site_id}.html"
+    with open(fname, "w", encoding="utf-8") as f:
+        f.write(f"<!-- source: {url} -->\n" + html)
+    print(f"[{site_id}] WARNING: parsed 0 products from {url}. "
+          f"Saved {fname} (see workflow artifacts).")
 
 
 def classify_status(text: str) -> str:

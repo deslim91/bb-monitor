@@ -15,7 +15,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-from .base import Product, fetch, clean, AVAILABLE, OOS, PREORDER, UNKNOWN
+from .base import Product, fetch, dump_debug, clean, AVAILABLE, OOS, PREORDER, UNKNOWN
 
 SITE_ID = "toygarden"
 BASE = "https://www.toygarden.com"
@@ -108,10 +108,7 @@ def scrape(urls: list[str]) -> list[Product]:
                         continue
 
         if not found:
-            with open("debug_toygarden.html", "w", encoding="utf-8") as f:
-                f.write(html)
-            print(f"[toygarden] WARNING: no products parsed from {url}. "
-                  f"Saved debug_toygarden.html — see README 'Fixing a parser'.")
+            dump_debug(SITE_ID, html, url)
             continue
 
         for obj in found:
