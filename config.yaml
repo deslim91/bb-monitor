@@ -1,0 +1,78 @@
+# ============================================================
+# Beyblade X Stock Monitor — Configuration
+# Edit this file anytime. No code changes needed.
+# ============================================================
+
+# Global keyword filter — a product must match at least one
+# of these (case-insensitive) to be tracked at all.
+keywords:
+  - beyblade
+  - "BX-"
+  - "UX-"
+  - "CX-"
+
+# ------------------------------------------------------------
+# WATCHLIST — your priority items.
+# Any product whose name contains one of these strings gets a
+# 🔥 PRIORITY alert (separate, louder Telegram message).
+# Add or remove lines anytime.
+# ------------------------------------------------------------
+# ------------------------------------------------------------
+# WATCHLIST — your priority items.
+# Two formats, mix freely:
+#   Simple:  - "UX-20"          -> pings for ANY site, available OR preorder
+#   Scoped:  - match: "UX-20"
+#              sites: [toysrus]          # limit to these site ids (omit = all)
+#              statuses: [available]     # omit = [available, preorder]
+# ------------------------------------------------------------
+watchlist:
+  - match: "UX-20"
+    sites: [toysrus]
+    statuses: [available]
+  - match: "UX-21"
+    sites: [toysrus]
+    statuses: [available]
+  - match: "UX-15"
+    sites: [toysrus]
+    statuses: [available]
+  - match: "BX-50"
+    sites: [toysrus]
+    statuses: [available]
+  - match: "BX-49"
+    sites: [toysrus]
+    statuses: [available]
+
+# ------------------------------------------------------------
+# SITES — set enabled: false to pause a site without deleting it.
+# To add a new site later: add an entry here AND drop a matching
+# adapter file into sites/ (see README).
+# ------------------------------------------------------------
+sites:
+  - id: toysrus
+    name: 'Toys"R"Us MY'
+    enabled: true
+    urls:
+      - "https://www.toysrus.com.my/beyblade/?sz=200"
+
+  - id: kelabgasing
+    name: "Kelab Gasing Beyblade"
+    enabled: true
+    urls:
+      - "https://kelabgasingbeyblade.my/beyblade-x"
+      - "https://kelabgasingbeyblade.my/latest-release"
+
+  - id: toygarden
+    name: "Toy Garden"
+    enabled: true
+    urls:
+      - "https://www.toygarden.com/collection/beyblade"
+
+# ------------------------------------------------------------
+# Notification behaviour
+# ------------------------------------------------------------
+notify:
+  new_listing: true       # 🆕 product appears for the first time
+  restock: true           # 🟢 was out of stock, now available
+  preorder_open: true     # 🟡 pre-order detected
+  out_of_stock: false     # 🔴 went from available -> sold out (off by default, noisy)
+  price_change: true      # 💰 price changed on a tracked item
