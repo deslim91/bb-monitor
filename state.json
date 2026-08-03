@@ -1,12 +1,4 @@
 {
- "kelabgasing:beyblade-x-premuim-tee": {
-  "key": "kelabgasing:beyblade-x-premuim-tee",
-  "name": "[ T-Shirt ] BEYBLADE X PREMUIM TEE",
-  "price": "MYR 129.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-premuim-tee"
- },
  "kelabgasing:bx-01-dran-sword-3-60f": {
   "key": "kelabgasing:bx-01-dran-sword-3-60f",
   "name": "[ Starter ] BX-01 DRAN SWORD 3-60F",
@@ -471,13 +463,13 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-07-pegasus-blast-atr"
  },
- "kelabgasing:cx-08-random-booster-vol-7": {
-  "key": "kelabgasing:cx-08-random-booster-vol-7",
-  "name": "[ Random Booster ] CX-08 RANDOM BOOSTER Vol 7",
+ "kelabgasing:cx-08-random-booster-vol7": {
+  "key": "kelabgasing:cx-08-random-booster-vol7",
+  "name": "[ Random Booster ] CX-08 RANDOM BOOSTER VOL.7",
   "price": "MYR 54.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-08-random-booster-vol-7"
+  "url": "https://kelabgasingbeyblade.my/products/cx-08-random-booster-vol7"
  },
  "kelabgasing:cx-09-sol-eclipse-d5-70tk": {
   "key": "kelabgasing:cx-09-sol-eclipse-d5-70tk",
@@ -519,21 +511,21 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
- "kelabgasing:cx-14-starter-knightfortress-gv8-70un": {
-  "key": "kelabgasing:cx-14-starter-knightfortress-gv8-70un",
-  "name": "[ Starter ] CX-14 STARTER KNIGHTFORTRESS GV8-70UN",
+ "kelabgasing:cx-14-knightfortress-gv8-70un": {
+  "key": "kelabgasing:cx-14-knightfortress-gv8-70un",
+  "name": "[ Starter ] CX-14 KNIGHTFORTRESS GV8-70UN",
   "price": "MYR 85.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-14-starter-knightfortress-gv8-70un"
+  "url": "https://kelabgasingbeyblade.my/products/cx-14-knightfortress-gv8-70un"
  },
- "kelabgasing:cx-15-booster-ragnarage-fe4-55y": {
-  "key": "kelabgasing:cx-15-booster-ragnarage-fe4-55y",
-  "name": "[ Booster ] CX-15 BOOSTER RAGNARAGE FE4-55Y",
+ "kelabgasing:cx-15-ragnarage-fe4-55y": {
+  "key": "kelabgasing:cx-15-ragnarage-fe4-55y",
+  "name": "[ Booster ] CX-15 RAGNARAGE FE4-55Y",
   "price": "MYR 52.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-15-booster-ragnarage-fe4-55y"
+  "url": "https://kelabgasingbeyblade.my/products/cx-15-ragnarage-fe4-55y"
  },
  "kelabgasing:cx-16-start-dash-set-c": {
   "key": "kelabgasing:cx-16-start-dash-set-c",
@@ -551,13 +543,21 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
  },
- "kelabgasing:cx-18-random-booster-brachio-whip-select": {
-  "key": "kelabgasing:cx-18-random-booster-brachio-whip-select",
-  "name": "[ Random Booster ] CX-18 RANDOM BOOSTER BRACHIO WHIP SELECT",
+ "kelabgasing:cx-18-brachio-whip-select": {
+  "key": "kelabgasing:cx-18-brachio-whip-select",
+  "name": "[ Random Booster ] CX-18 BRACHIO WHIP SELECT",
   "price": "MYR 52.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-18-random-booster-brachio-whip-select"
+  "url": "https://kelabgasingbeyblade.my/products/cx-18-brachio-whip-select"
+ },
+ "kelabgasing:limited-edition-merdeka-cup-2026-beyblade-x-premium-tee": {
+  "key": "kelabgasing:limited-edition-merdeka-cup-2026-beyblade-x-premium-tee",
+  "name": "[ T-Shirt ] Limited Edition Merdeka Cup 2026 BEYBLADE X PREMIUM TEE",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/limited-edition-merdeka-cup-2026-beyblade-x-premium-tee"
  },
  "kelabgasing:ux-01-dran-buster-1-60a": {
   "key": "kelabgasing:ux-01-dran-buster-1-60a",
