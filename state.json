@@ -84,7 +84,7 @@
   "name": "[ Grip ] BX-11 LAUNCHER GRIP",
   "price": "MYR 29.90",
   "site": "kelabgasing",
-  "status": "out_of_stock",
+  "status": "available",
   "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
  },
  "kelabgasing:bx-12-3-on-3-deck-case": {
@@ -508,7 +508,7 @@
   "name": "[ Starter ] CX-13 BAHAMUTBLITZ BK1-50I",
   "price": "MYR 85.90",
   "site": "kelabgasing",
-  "status": "out_of_stock",
+  "status": "available",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
  "kelabgasing:cx-14-knightfortress-gv8-70un": {
@@ -556,8 +556,16 @@
   "name": "[ T-Shirt ] Limited Edition Merdeka Cup 2026 BEYBLADE X PREMIUM TEE",
   "price": "MYR 129.90",
   "site": "kelabgasing",
-  "status": "out_of_stock",
+  "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/limited-edition-merdeka-cup-2026-beyblade-x-premium-tee"
+ },
+ "kelabgasing:takara-tomy-beyblade-x-ux-19-starter-bullet-griffon": {
+  "key": "kelabgasing:takara-tomy-beyblade-x-ux-19-starter-bullet-griffon",
+  "name": "[ Starter ] TAKARA TOMY BEYBLADE X UX-19 STARTER BULLET GRIFFON",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/takara-tomy-beyblade-x-ux-19-starter-bullet-griffon"
  },
  "kelabgasing:ux-01-dran-buster-1-60a": {
   "key": "kelabgasing:ux-01-dran-buster-1-60a",
@@ -702,14 +710,6 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-18-random-booster-vol8"
- },
- "kelabgasing:ux-19-bullet-griffon-h": {
-  "key": "kelabgasing:ux-19-bullet-griffon-h",
-  "name": "[ Starter ] UX-19 BULLET GRIFFON H",
-  "price": "MYR 85.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/ux-19-bullet-griffon-h"
  },
  "kelabgasing:ux-20-glory-valkyrie-lf": {
   "key": "kelabgasing:ux-20-glory-valkyrie-lf",
