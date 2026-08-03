@@ -65,7 +65,7 @@
  },
  "kelabgasing:bx-08-3-on-3-deck-set": {
   "key": "kelabgasing:bx-08-3-on-3-deck-set",
-  "name": "[ Battle Set ] BX-08 3 ON 3 DECK SET",
+  "name": "[ Deck Set ] BX-08 3 ON 3 DECK SET",
   "price": "MYR 129.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
@@ -127,13 +127,13 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/bx-15-leon-claw-5-60-p"
  },
- "kelabgasing:bx-16-viper-tail": {
-  "key": "kelabgasing:bx-16-viper-tail",
-  "name": "[ Random Booster ] BX-16 VIPER TAIL",
+ "kelabgasing:bx-16-viper-tail-select": {
+  "key": "kelabgasing:bx-16-viper-tail-select",
+  "name": "[ Random Booster ] BX-16 VIPER TAIL SELECT",
   "price": "MYR 52.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/bx-16-viper-tail"
+  "url": "https://kelabgasingbeyblade.my/products/bx-16-viper-tail-select"
  },
  "kelabgasing:bx-17-battle-entry-set": {
   "key": "kelabgasing:bx-17-battle-entry-set",
