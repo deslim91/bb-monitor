@@ -84,7 +84,7 @@
   "name": "[ Grip ] BX-11 LAUNCHER GRIP",
   "price": "MYR 29.90",
   "site": "kelabgasing",
-  "status": "available",
+  "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
  },
  "kelabgasing:bx-12-3-on-3-deck-case": {
@@ -559,14 +559,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/limited-edition-merdeka-cup2026-beyblade-x-premium-tee"
  },
- "kelabgasing:takara-tomy-beyblade-x-ux-19-starter-bullet-griffon": {
-  "key": "kelabgasing:takara-tomy-beyblade-x-ux-19-starter-bullet-griffon",
-  "name": "[ Starter ] TAKARA TOMY BEYBLADE X UX-19 STARTER BULLET GRIFFON",
-  "price": "MYR 85.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/takara-tomy-beyblade-x-ux-19-starter-bullet-griffon"
- },
  "kelabgasing:ux-01-dran-buster-1-60a": {
   "key": "kelabgasing:ux-01-dran-buster-1-60a",
   "name": "[ Starter ] UX-01 DRAN BUSTER 1-60A",
@@ -710,6 +702,14 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-18-random-booster-vol8"
+ },
+ "kelabgasing:ux-19-bullet-griffon-takara-tomy-beyblade-x-starter": {
+  "key": "kelabgasing:ux-19-bullet-griffon-takara-tomy-beyblade-x-starter",
+  "name": "[ Starter ] UX-19 BULLET GRIFFON TAKARA TOMY BEYBLADE X STARTER",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-19-bullet-griffon-takara-tomy-beyblade-x-starter"
  },
  "kelabgasing:ux-20-glory-valkyrie-lf": {
   "key": "kelabgasing:ux-20-glory-valkyrie-lf",
