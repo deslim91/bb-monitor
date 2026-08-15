@@ -1,4 +1,292 @@
 {
+ "kelabgasing:bx-01-dran-sword-3-60f": {
+  "key": "kelabgasing:bx-01-dran-sword-3-60f",
+  "name": "[ Starter ] BX-01 DRAN SWORD 3-60F",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-01-dran-sword-3-60f"
+ },
+ "kelabgasing:bx-02-hells-scythe-4-60t": {
+  "key": "kelabgasing:bx-02-hells-scythe-4-60t",
+  "name": "[ Starter ] BX-02 HELLS SCYTHE 4-60T",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-02-hells-scythe-4-60t"
+ },
+ "kelabgasing:bx-03-wizard-arrow-4-80b": {
+  "key": "kelabgasing:bx-03-wizard-arrow-4-80b",
+  "name": "[ Starter ] BX-03 WIZARD ARROW 4-80B",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-03-wizard-arrow-4-80b"
+ },
+ "kelabgasing:bx-04-knight-shield-3-80n": {
+  "key": "kelabgasing:bx-04-knight-shield-3-80n",
+  "name": "[ Starter ] BX-04 KNIGHT SHIELD 3-80N",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-04-knight-shield-3-80n"
+ },
+ "kelabgasing:bx-05-wizard-arrow-4-80b": {
+  "key": "kelabgasing:bx-05-wizard-arrow-4-80b",
+  "name": "[ Booster ] BX-05 WIZARD ARROW 4-80B",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-05-wizard-arrow-4-80b"
+ },
+ "kelabgasing:bx-06-knight-shield-3-80n": {
+  "key": "kelabgasing:bx-06-knight-shield-3-80n",
+  "name": "[ Booster ] BX-06 KNIGHT SHIELD 3-80N",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-06-knight-shield-3-80n"
+ },
+ "kelabgasing:bx-07-dran-sword-all-in-one-set": {
+  "key": "kelabgasing:bx-07-dran-sword-all-in-one-set",
+  "name": "[ Stadium ] BX-07 DRAN SWORD ALL IN ONE SET",
+  "price": "MYR 299.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-07-dran-sword-all-in-one-set"
+ },
+ "kelabgasing:bx-08-3-on-3-deck-set": {
+  "key": "kelabgasing:bx-08-3-on-3-deck-set",
+  "name": "[ Deck Set ] BX-08 3 ON 3 DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-08-3-on-3-deck-set"
+ },
+ "kelabgasing:bx-09-beybattle-pass": {
+  "key": "kelabgasing:bx-09-beybattle-pass",
+  "name": "[ Launcher Grip ] BX-09 BEYBATTLE PASS",
+  "price": "MYR 999.99",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-09-beybattle-pass"
+ },
+ "kelabgasing:bx-10-xtreme-stadium": {
+  "key": "kelabgasing:bx-10-xtreme-stadium",
+  "name": "[ Stadium ] BX-10 XTREME STADIUM",
+  "price": "MYR 149.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-10-xtreme-stadium"
+ },
+ "kelabgasing:bx-11-launcher-grip": {
+  "key": "kelabgasing:bx-11-launcher-grip",
+  "name": "[ Grip ] BX-11 LAUNCHER GRIP",
+  "price": "MYR 29.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
+ },
+ "kelabgasing:bx-12-3-on-3-deck-case": {
+  "key": "kelabgasing:bx-12-3-on-3-deck-case",
+  "name": "[ Deck Case ] BX-12 3 ON 3 DECK CASE",
+  "price": "MYR 42.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-12-3-on-3-deck-case"
+ },
+ "kelabgasing:bx-13-knight-lance-4-80hn": {
+  "key": "kelabgasing:bx-13-knight-lance-4-80hn",
+  "name": "[ Booster ] BX-13 KNIGHT LANCE 4-80HN",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-13-knight-lance-4-80hn"
+ },
+ "kelabgasing:bx-14-random-booster-vol-1": {
+  "key": "kelabgasing:bx-14-random-booster-vol-1",
+  "name": "[ Random Booster ] BX-14 RANDOM BOOSTER VOL 1",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-14-random-booster-vol-1"
+ },
+ "kelabgasing:bx-15-leon-claw-5-60-p": {
+  "key": "kelabgasing:bx-15-leon-claw-5-60-p",
+  "name": "[ Starter ] BX-15 LEON CLAW 5-60 P",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-15-leon-claw-5-60-p"
+ },
+ "kelabgasing:bx-16-viper-tail-select": {
+  "key": "kelabgasing:bx-16-viper-tail-select",
+  "name": "[ Random Booster ] BX-16 VIPER TAIL SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-16-viper-tail-select"
+ },
+ "kelabgasing:bx-17-battle-entry-set": {
+  "key": "kelabgasing:bx-17-battle-entry-set",
+  "name": "[ Battle Set ] BX-17 BATTLE ENTRY SET",
+  "price": "MYR 299.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-17-battle-entry-set"
+ },
+ "kelabgasing:bx-18-string-launcher": {
+  "key": "kelabgasing:bx-18-string-launcher",
+  "name": "[ Launcher ] BX-18 STRING LAUNCHER",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-18-string-launcher"
+ },
+ "kelabgasing:bx-19-rhino-horn-3-80s": {
+  "key": "kelabgasing:bx-19-rhino-horn-3-80s",
+  "name": "[ Booster ] BX-19 RHINO HORN 3-80S",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-19-rhino-horn-3-80s"
+ },
+ "kelabgasing:bx-20-dran-dagger-deck-set": {
+  "key": "kelabgasing:bx-20-dran-dagger-deck-set",
+  "name": "[ Deck Set ] BX-20 DRAN DAGGER DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-20-dran-dagger-deck-set"
+ },
+ "kelabgasing:bx-21-hellschain-deck-set": {
+  "key": "kelabgasing:bx-21-hellschain-deck-set",
+  "name": "[ Battle Set ] BX-21 HELLSCHAIN DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-21-hellschain-deck-set"
+ },
+ "kelabgasing:bx-22-dran-sword-3-60f": {
+  "key": "kelabgasing:bx-22-dran-sword-3-60f",
+  "name": "[ Entry Package ] BX-22 DRAN SWORD 3-60F",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-22-dran-sword-3-60f"
+ },
+ "kelabgasing:bx-23-phoenix-wing-9-60gf": {
+  "key": "kelabgasing:bx-23-phoenix-wing-9-60gf",
+  "name": "[ Starter ] BX-23 PHOENIX WING 9-60GF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-23-phoenix-wing-9-60gf"
+ },
+ "kelabgasing:bx-24-random-booster-vol-2": {
+  "key": "kelabgasing:bx-24-random-booster-vol-2",
+  "name": "[ Random Booster ] BX-24 RANDOM BOOSTER VOL 2",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-24-random-booster-vol-2"
+ },
+ "kelabgasing:bx-25-gear-case-black-ver": {
+  "key": "kelabgasing:bx-25-gear-case-black-ver",
+  "name": "[ Gear Case ] BX-25 GEAR CASE BLACK VER.",
+  "price": "MYR 189.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-25-gear-case-black-ver"
+ },
+ "kelabgasing:bx-26-unicornsting-5-60gp": {
+  "key": "kelabgasing:bx-26-unicornsting-5-60gp",
+  "name": "[ Booster ] BX-26 UNICORNSTING 5-60GP",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-26-unicornsting-5-60gp"
+ },
+ "kelabgasing:bx-27-sphinxcowl-select": {
+  "key": "kelabgasing:bx-27-sphinxcowl-select",
+  "name": "[ Random Booster ] BX-27 SPHINXCOWL SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-27-sphinxcowl-select"
+ },
+ "kelabgasing:bx-28-string-launcher-white-ver": {
+  "key": "kelabgasing:bx-28-string-launcher-white-ver",
+  "name": "[ Launcher ] BX-28 STRING LAUNCHER WHITE VER",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-28-string-launcher-white-ver"
+ },
+ "kelabgasing:bx-29-custom-grip-white-ver": {
+  "key": "kelabgasing:bx-29-custom-grip-white-ver",
+  "name": "[ Grip ] BX-29 CUSTOM GRIP WHITE VER.",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-29-custom-grip-white-ver"
+ },
+ "kelabgasing:bx-30-custom-grip-red-ver": {
+  "key": "kelabgasing:bx-30-custom-grip-red-ver",
+  "name": "[ Grip ] BX-30 CUSTOM GRIP RED VER.",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-30-custom-grip-red-ver"
+ },
+ "kelabgasing:bx-31-random-booster-vol3": {
+  "key": "kelabgasing:bx-31-random-booster-vol3",
+  "name": "[ Random Booster ] BX-31 RANDOM BOOSTER VOL.3",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-31-random-booster-vol3"
+ },
+ "kelabgasing:bx-32-wide-xtreme-stadium": {
+  "key": "kelabgasing:bx-32-wide-xtreme-stadium",
+  "name": "[ Stadium ] BX-32 WIDE XTREME STADIUM",
+  "price": "MYR 199.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-32-wide-xtreme-stadium"
+ },
+ "kelabgasing:bx-33-booster-weiss-tiger-3-60u": {
+  "key": "kelabgasing:bx-33-booster-weiss-tiger-3-60u",
+  "name": "[ Booster ] BX-33 BOOSTER WEISS TIGER 3-60U",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-33-booster-weiss-tiger-3-60u"
+ },
+ "kelabgasing:bx-34-cobalt-dragoon-2-60c": {
+  "key": "kelabgasing:bx-34-cobalt-dragoon-2-60c",
+  "name": "[ Starter ] BX-34 COBALT DRAGOON 2-60C",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-34-cobalt-dragoon-2-60c"
+ },
+ "kelabgasing:bx-35-random-booster-vol4": {
+  "key": "kelabgasing:bx-35-random-booster-vol4",
+  "name": "[ Random Booster ] BX-35 RANDOM BOOSTER VOL.4",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-35-random-booster-vol4"
+ },
+ "kelabgasing:bx-36-whale-wave-select": {
+  "key": "kelabgasing:bx-36-whale-wave-select",
+  "name": "[ Random Booster ] BX-36 WHALE WAVE SELECT",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-36-whale-wave-select"
+ },
  "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee": {
   "key": "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee",
   "name": "[ T-Shirt ] LIMITED EDITION MERDEKA CUP2026 BEYBLADE X PREMIUM TEE",
