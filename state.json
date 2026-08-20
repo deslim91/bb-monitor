@@ -39,6 +39,22 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-25-gear-case-black-ver"
  },
+ "kelabgasing:bx-29-custom-grip-white-ver": {
+  "key": "kelabgasing:bx-29-custom-grip-white-ver",
+  "name": "[ Grip ] BX-29 CUSTOM GRIP WHITE VER.",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-29-custom-grip-white-ver"
+ },
+ "kelabgasing:bx-30-custom-grip-red-ver": {
+  "key": "kelabgasing:bx-30-custom-grip-red-ver",
+  "name": "[ Grip ] BX-30 CUSTOM GRIP RED VER.",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-30-custom-grip-red-ver"
+ },
  "kelabgasing:bx-32-wide-xtreme-stadium": {
   "key": "kelabgasing:bx-32-wide-xtreme-stadium",
   "name": "[ Stadium ] BX-32 WIDE XTREME STADIUM",
@@ -46,6 +62,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-32-wide-xtreme-stadium"
+ },
+ "kelabgasing:bx-33-booster-weiss-tiger-3-60u": {
+  "key": "kelabgasing:bx-33-booster-weiss-tiger-3-60u",
+  "name": "[ Booster ] BX-33 BOOSTER WEISS TIGER 3-60U",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-33-booster-weiss-tiger-3-60u"
  },
  "kelabgasing:bx-37-double-xtreme-stadium-set": {
   "key": "kelabgasing:bx-37-double-xtreme-stadium-set",
@@ -143,6 +167,14 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-15-ragnarage-fe4-55y"
  },
+ "kelabgasing:cx-16-start-dash-set-c": {
+  "key": "kelabgasing:cx-16-start-dash-set-c",
+  "name": "[ Dash Set ] CX-16 START DASH SET C",
+  "price": "MYR 299.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
+ },
  "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee": {
   "key": "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee",
   "name": "[ T-Shirt ] LIMITED EDITION MERDEKA CUP2026 BEYBLADE X PREMIUM TEE",
@@ -158,6 +190,38 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
+ },
+ "kelabgasing:ux-04-battle-entry-set-u": {
+  "key": "kelabgasing:ux-04-battle-entry-set-u",
+  "name": "[ Battle Set ] UX-04 BATTLE ENTRY SET U",
+  "price": "MYR 339.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-04-battle-entry-set-u"
+ },
+ "kelabgasing:ux-06-leon-crest-7-60gn": {
+  "key": "kelabgasing:ux-06-leon-crest-7-60gn",
+  "name": "[ Booster ] UX-06 LEON CREST 7-60GN",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-06-leon-crest-7-60gn"
+ },
+ "kelabgasing:ux-07-phoenix-rudder-deck-set": {
+  "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
+  "name": "[ Deck Set ] UX-07 PHOENIX RUDDER DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
+ },
+ "kelabgasing:ux-10-customize-set-u": {
+  "key": "kelabgasing:ux-10-customize-set-u",
+  "name": "[ Custom Set ] UX-10 CUSTOMIZE SET U",
+  "price": "MYR 174.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-10-customize-set-u"
  },
  "kelabgasing:ux-14-scorpio-spear-0-70z": {
   "key": "kelabgasing:ux-14-scorpio-spear-0-70z",
