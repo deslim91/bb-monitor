@@ -15,6 +15,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-04-knight-shield-3-80n"
  },
+ "kelabgasing:bx-10-xtreme-stadium": {
+  "key": "kelabgasing:bx-10-xtreme-stadium",
+  "name": "[ Stadium ] BX-10 XTREME STADIUM",
+  "price": "MYR 149.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-10-xtreme-stadium"
+ },
  "kelabgasing:bx-11-launcher-grip": {
   "key": "kelabgasing:bx-11-launcher-grip",
   "name": "[ Grip ] BX-11 LAUNCHER GRIP",
@@ -71,6 +79,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-43-gear-case-white-ver"
  },
+ "kelabgasing:bx-51-string-launcher-black-x-green": {
+  "key": "kelabgasing:bx-51-string-launcher-black-x-green",
+  "name": "[ Launcher ] BX-51 STRING LAUNCHER BLACK X GREEN",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-51-string-launcher-black-x-green"
+ },
  "kelabgasing:cx-01-dran-brave-s6-60v": {
   "key": "kelabgasing:cx-01-dran-brave-s6-60v",
   "name": "[ Starter ] CX-01 DRAN BRAVE S6-60V",
@@ -95,6 +111,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-09-sol-eclipse-d5-70tk"
  },
+ "kelabgasing:cx-10-wolf-hunt-f0-60db": {
+  "key": "kelabgasing:cx-10-wolf-hunt-f0-60db",
+  "name": "[ Booster ] CX-10 WOLF HUNT F0-60DB",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-10-wolf-hunt-f0-60db"
+ },
  "kelabgasing:cx-12-phoenix-flare-z9-80ww": {
   "key": "kelabgasing:cx-12-phoenix-flare-z9-80ww",
   "name": "[ Booster ] CX-12 PHOENIX FLARE Z9-80WW",
@@ -110,6 +134,30 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
+ },
+ "kelabgasing:cx-14-knightfortress-gv8-70un": {
+  "key": "kelabgasing:cx-14-knightfortress-gv8-70un",
+  "name": "[ Starter ] CX-14 KNIGHTFORTRESS GV8-70UN",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-14-knightfortress-gv8-70un"
+ },
+ "kelabgasing:cx-15-ragnarage-fe4-55y": {
+  "key": "kelabgasing:cx-15-ragnarage-fe4-55y",
+  "name": "[ Booster ] CX-15 RAGNARAGE FE4-55Y",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-15-ragnarage-fe4-55y"
+ },
+ "kelabgasing:cx-18-brachio-whip-select": {
+  "key": "kelabgasing:cx-18-brachio-whip-select",
+  "name": "[ Random Booster ] CX-18 BRACHIO WHIP SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-18-brachio-whip-select"
  },
  "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee": {
   "key": "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee",
@@ -134,6 +182,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
+ },
+ "kelabgasing:ux-15-shark-scale-deck-set": {
+  "key": "kelabgasing:ux-15-shark-scale-deck-set",
+  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
  },
  "kelabgasing:ux-16-clock-mirrage-select": {
   "key": "kelabgasing:ux-16-clock-mirrage-select",
