@@ -63,14 +63,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-32-wide-xtreme-stadium"
  },
- "kelabgasing:bx-33-booster-weiss-tiger-3-60u": {
-  "key": "kelabgasing:bx-33-booster-weiss-tiger-3-60u",
-  "name": "[ Booster ] BX-33 BOOSTER WEISS TIGER 3-60U",
-  "price": "MYR 54.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/bx-33-booster-weiss-tiger-3-60u"
- },
  "kelabgasing:bx-37-double-xtreme-stadium-set": {
   "key": "kelabgasing:bx-37-double-xtreme-stadium-set",
   "name": "[ Stadium ] BX-37 DOUBLE XTREME STADIUM SET",
@@ -190,22 +182,6 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
- },
- "kelabgasing:ux-04-battle-entry-set-u": {
-  "key": "kelabgasing:ux-04-battle-entry-set-u",
-  "name": "[ Battle Set ] UX-04 BATTLE ENTRY SET U",
-  "price": "MYR 339.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-04-battle-entry-set-u"
- },
- "kelabgasing:ux-06-leon-crest-7-60gn": {
-  "key": "kelabgasing:ux-06-leon-crest-7-60gn",
-  "name": "[ Booster ] UX-06 LEON CREST 7-60GN",
-  "price": "MYR 54.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/ux-06-leon-crest-7-60gn"
  },
  "kelabgasing:ux-07-phoenix-rudder-deck-set": {
   "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
