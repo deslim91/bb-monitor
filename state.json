@@ -95,6 +95,30 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-12-phoenix-flare-z9-80ww"
  },
+ "kelabgasing:cx-13-bahamutblitz-bk1-50i": {
+  "key": "kelabgasing:cx-13-bahamutblitz-bk1-50i",
+  "name": "[ Starter ] CX-13 BAHAMUTBLITZ BK1-50I",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
+ },
+ "kelabgasing:cx-14-knightfortress-gv8-70un": {
+  "key": "kelabgasing:cx-14-knightfortress-gv8-70un",
+  "name": "[ Starter ] CX-14 KNIGHTFORTRESS GV8-70UN",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-14-knightfortress-gv8-70un"
+ },
+ "kelabgasing:cx-15-ragnarage-fe4-55y": {
+  "key": "kelabgasing:cx-15-ragnarage-fe4-55y",
+  "name": "[ Booster ] CX-15 RAGNARAGE FE4-55Y",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-15-ragnarage-fe4-55y"
+ },
  "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee": {
   "key": "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee",
   "name": "[ T-Shirt ] LIMITED EDITION MERDEKA CUP2026 BEYBLADE X PREMIUM TEE",
@@ -110,6 +134,14 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
+ },
+ "kelabgasing:ux-04-battle-entry-set-u": {
+  "key": "kelabgasing:ux-04-battle-entry-set-u",
+  "name": "[ Battle Set ] UX-04 BATTLE ENTRY SET U",
+  "price": "MYR 339.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-04-battle-entry-set-u"
  },
  "kelabgasing:ux-07-phoenix-rudder-deck-set": {
   "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
@@ -134,5 +166,21 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
+ },
+ "kelabgasing:ux-16-clock-mirrage-select": {
+  "key": "kelabgasing:ux-16-clock-mirrage-select",
+  "name": "[ Random Booster ] UX-16 CLOCK MIRRAGE SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
+ },
+ "kelabgasing:ux-20-glory-valkyrie-lf": {
+  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
+  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
