@@ -39,6 +39,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-10-xtreme-stadium"
  },
+ "kelabgasing:bx-11-launcher-grip": {
+  "key": "kelabgasing:bx-11-launcher-grip",
+  "name": "[ Grip ] BX-11 LAUNCHER GRIP",
+  "price": "MYR 29.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
+ },
  "kelabgasing:bx-25-gear-case-black-ver": {
   "key": "kelabgasing:bx-25-gear-case-black-ver",
   "name": "[ Gear Case ] BX-25 GEAR CASE BLACK VER.",
@@ -127,14 +135,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
- "kelabgasing:cx-16-start-dash-set-c": {
-  "key": "kelabgasing:cx-16-start-dash-set-c",
-  "name": "[ Dash Set ] CX-16 START DASH SET C",
-  "price": "MYR 299.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
- },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
   "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
@@ -174,13 +174,5 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
- },
- "kelabgasing:ux-20-glory-valkyrie-lf": {
-  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
-  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
-  "price": "MYR 89.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
