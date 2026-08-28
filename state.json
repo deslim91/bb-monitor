@@ -1,4 +1,20 @@
 {
+ "kelabgasing:beyblade-x-black-3d-cap-2": {
+  "key": "kelabgasing:beyblade-x-black-3d-cap-2",
+  "name": "[ Cap ] BEYBLADE X BLACK 3D CAP",
+  "price": "MYR 69.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-black-3d-cap-2"
+ },
+ "kelabgasing:beyblade-x-white-3d-cap": {
+  "key": "kelabgasing:beyblade-x-white-3d-cap",
+  "name": "[ Cap ] BEYBLADE X WHITE 3D CAP",
+  "price": "MYR 69.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-white-3d-cap"
+ },
  "kelabgasing:bx-03-wizard-arrow-4-80b": {
   "key": "kelabgasing:bx-03-wizard-arrow-4-80b",
   "name": "[ Starter ] BX-03 WIZARD ARROW 4-80B",
@@ -46,6 +62,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-37-double-xtreme-stadium-set"
+ },
+ "kelabgasing:bx-39-shelter-drake-select": {
+  "key": "kelabgasing:bx-39-shelter-drake-select",
+  "name": "[ Random Booster ] BX-39 SHELTER DRAKE SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-39-shelter-drake-select"
  },
  "kelabgasing:bx-40-winder-launcher-l": {
   "key": "kelabgasing:bx-40-winder-launcher-l",
@@ -103,21 +127,13 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
- "kelabgasing:cx-15-ragnarage-fe4-55y": {
-  "key": "kelabgasing:cx-15-ragnarage-fe4-55y",
-  "name": "[ Booster ] CX-15 RAGNARAGE FE4-55Y",
-  "price": "MYR 52.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-15-ragnarage-fe4-55y"
- },
- "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee": {
-  "key": "kelabgasing:limited-edition-merdeka-cup2026-beyblade-x-premium-tee",
-  "name": "[ T-Shirt ] LIMITED EDITION MERDEKA CUP2026 BEYBLADE X PREMIUM TEE",
-  "price": "MYR 129.90",
+ "kelabgasing:cx-16-start-dash-set-c": {
+  "key": "kelabgasing:cx-16-start-dash-set-c",
+  "name": "[ Dash Set ] CX-16 START DASH SET C",
+  "price": "MYR 299.90",
   "site": "kelabgasing",
   "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/limited-edition-merdeka-cup2026-beyblade-x-premium-tee"
+  "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
  },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
