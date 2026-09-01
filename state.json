@@ -135,12 +135,44 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
- "kelabgasing:ux-14-scorpio-spear-0-70z": {
-  "key": "kelabgasing:ux-14-scorpio-spear-0-70z",
-  "name": "[ Starter ] UX-14 SCORPIO SPEAR 0-70Z",
-  "price": "MYR 85.90",
+ "kelabgasing:cx-16-start-dash-set-c": {
+  "key": "kelabgasing:cx-16-start-dash-set-c",
+  "name": "[ Dash Set ] CX-16 START DASH SET C",
+  "price": "MYR 299.90",
   "site": "kelabgasing",
   "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
+  "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
+ },
+ "kelabgasing:ux-03-wizard-rod-5-70db": {
+  "key": "kelabgasing:ux-03-wizard-rod-5-70db",
+  "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
+ },
+ "kelabgasing:ux-07-phoenix-rudder-deck-set": {
+  "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
+  "name": "[ Deck Set ] UX-07 PHOENIX RUDDER DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
+ },
+ "kelabgasing:ux-15-shark-scale-deck-set": {
+  "key": "kelabgasing:ux-15-shark-scale-deck-set",
+  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
+ },
+ "kelabgasing:ux-20-glory-valkyrie-lf": {
+  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
+  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
