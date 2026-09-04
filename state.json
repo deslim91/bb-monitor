@@ -159,14 +159,6 @@
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
  },
- "kelabgasing:cx-18-brachio-whip-select": {
-  "key": "kelabgasing:cx-18-brachio-whip-select",
-  "name": "[ Random Booster ] CX-18 BRACHIO WHIP SELECT",
-  "price": "MYR 52.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-18-brachio-whip-select"
- },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
   "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
@@ -182,14 +174,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
- },
- "kelabgasing:ux-15-shark-scale-deck-set": {
-  "key": "kelabgasing:ux-15-shark-scale-deck-set",
-  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
-  "price": "MYR 129.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
  },
  "kelabgasing:ux-16-clock-mirrage-select": {
   "key": "kelabgasing:ux-16-clock-mirrage-select",
