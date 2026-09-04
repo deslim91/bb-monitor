@@ -95,6 +95,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-43-gear-case-white-ver"
  },
+ "kelabgasing:bx-50-random-booster-vol11": {
+  "key": "kelabgasing:bx-50-random-booster-vol11",
+  "name": "[ Random Booster ] BX-50 RANDOM BOOSTER VOL.11",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-50-random-booster-vol11"
+ },
  "kelabgasing:cx-01-dran-brave-s6-60v": {
   "key": "kelabgasing:cx-01-dran-brave-s6-60v",
   "name": "[ Starter ] CX-01 DRAN BRAVE S6-60V",
@@ -135,6 +143,30 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
+ "kelabgasing:cx-16-start-dash-set-c": {
+  "key": "kelabgasing:cx-16-start-dash-set-c",
+  "name": "[ Dash Set ] CX-16 START DASH SET C",
+  "price": "MYR 299.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
+ },
+ "kelabgasing:cx-17-random-booster-vol10": {
+  "key": "kelabgasing:cx-17-random-booster-vol10",
+  "name": "[ Random Booster ] CX-17 RANDOM BOOSTER VOL.10",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
+ },
+ "kelabgasing:cx-18-brachio-whip-select": {
+  "key": "kelabgasing:cx-18-brachio-whip-select",
+  "name": "[ Random Booster ] CX-18 BRACHIO WHIP SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-18-brachio-whip-select"
+ },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
   "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
@@ -150,5 +182,29 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
+ },
+ "kelabgasing:ux-15-shark-scale-deck-set": {
+  "key": "kelabgasing:ux-15-shark-scale-deck-set",
+  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
+ },
+ "kelabgasing:ux-16-clock-mirrage-select": {
+  "key": "kelabgasing:ux-16-clock-mirrage-select",
+  "name": "[ Random Booster ] UX-16 CLOCK MIRRAGE SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
+ },
+ "kelabgasing:ux-20-glory-valkyrie-lf": {
+  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
+  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
