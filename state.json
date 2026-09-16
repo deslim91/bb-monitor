@@ -71,6 +71,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-32-wide-xtreme-stadium"
  },
+ "kelabgasing:bx-34-cobalt-dragoon-2-60c": {
+  "key": "kelabgasing:bx-34-cobalt-dragoon-2-60c",
+  "name": "[ Starter ] BX-34 COBALT DRAGOON 2-60C",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-34-cobalt-dragoon-2-60c"
+ },
  "kelabgasing:bx-37-double-xtreme-stadium-set": {
   "key": "kelabgasing:bx-37-double-xtreme-stadium-set",
   "name": "[ Stadium ] BX-37 DOUBLE XTREME STADIUM SET",
@@ -102,6 +110,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-43-gear-case-white-ver"
+ },
+ "kelabgasing:bx-50-random-booster-vol11": {
+  "key": "kelabgasing:bx-50-random-booster-vol11",
+  "name": "[ Random Booster ] BX-50 RANDOM BOOSTER VOL.11",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-50-random-booster-vol11"
  },
  "kelabgasing:cx-01-dran-brave-s6-60v": {
   "key": "kelabgasing:cx-01-dran-brave-s6-60v",
@@ -143,6 +159,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-13-bahamutblitz-bk1-50i"
  },
+ "kelabgasing:ux-03-wizard-rod-5-70db": {
+  "key": "kelabgasing:ux-03-wizard-rod-5-70db",
+  "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
+ },
  "kelabgasing:ux-07-phoenix-rudder-deck-set": {
   "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
   "name": "[ Deck Set ] UX-07 PHOENIX RUDDER DECK SET",
@@ -158,5 +182,13 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
+ },
+ "kelabgasing:ux-15-shark-scale-deck-set": {
+  "key": "kelabgasing:ux-15-shark-scale-deck-set",
+  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
  }
 }
