@@ -1,12 +1,4 @@
 {
- "kelabgasing:beyblade-x-black-3d-cap-2": {
-  "key": "kelabgasing:beyblade-x-black-3d-cap-2",
-  "name": "[ Cap ] BEYBLADE X BLACK 3D CAP",
-  "price": "MYR 69.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-black-3d-cap-2"
- },
  "kelabgasing:beyblade-x-chibi-character-gear-die-cut-sticker-sheets": {
   "key": "kelabgasing:beyblade-x-chibi-character-gear-die-cut-sticker-sheets",
   "name": "[ Stickers ] BEYBLADE X CHIBI CHARACTER & GEAR DIE-CUT STICKER SHEETS",
@@ -23,30 +15,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/beyblade-x-lanyards"
  },
- "kelabgasing:beyblade-x-white-3d-cap": {
-  "key": "kelabgasing:beyblade-x-white-3d-cap",
-  "name": "[ Cap ] BEYBLADE X WHITE 3D CAP",
-  "price": "MYR 69.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-white-3d-cap"
- },
- "kelabgasing:bx-03-wizard-arrow-4-80b": {
-  "key": "kelabgasing:bx-03-wizard-arrow-4-80b",
-  "name": "[ Starter ] BX-03 WIZARD ARROW 4-80B",
-  "price": "MYR 79.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/bx-03-wizard-arrow-4-80b"
- },
- "kelabgasing:bx-04-knight-shield-3-80n": {
-  "key": "kelabgasing:bx-04-knight-shield-3-80n",
-  "name": "[ Starter ] BX-04 KNIGHT SHIELD 3-80N",
-  "price": "MYR 79.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/bx-04-knight-shield-3-80n"
- },
  "kelabgasing:bx-10-xtreme-stadium": {
   "key": "kelabgasing:bx-10-xtreme-stadium",
   "name": "[ Stadium ] BX-10 XTREME STADIUM",
@@ -62,14 +30,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
- },
- "kelabgasing:bx-23-phoenix-wing-9-60gf": {
-  "key": "kelabgasing:bx-23-phoenix-wing-9-60gf",
-  "name": "[ Starter ] BX-23 PHOENIX WING 9-60GF",
-  "price": "MYR 89.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/bx-23-phoenix-wing-9-60gf"
  },
  "kelabgasing:bx-25-gear-case-black-ver": {
   "key": "kelabgasing:bx-25-gear-case-black-ver",
@@ -94,14 +54,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-34-cobalt-dragoon-2-60c"
- },
- "kelabgasing:bx-35-random-booster-vol4": {
-  "key": "kelabgasing:bx-35-random-booster-vol4",
-  "name": "[ Random Booster ] BX-35 RANDOM BOOSTER VOL.4",
-  "price": "MYR 54.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/bx-35-random-booster-vol4"
  },
  "kelabgasing:bx-37-double-xtreme-stadium-set": {
   "key": "kelabgasing:bx-37-double-xtreme-stadium-set",
@@ -191,13 +143,13 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
  },
- "kelabgasing:cx-17-random-booster-vol10": {
-  "key": "kelabgasing:cx-17-random-booster-vol10",
-  "name": "[ Random Booster ] CX-17 RANDOM BOOSTER VOL.10",
+ "kelabgasing:ux-03-wizard-rod-5-70db": {
+  "key": "kelabgasing:ux-03-wizard-rod-5-70db",
+  "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
   "price": "MYR 52.90",
   "site": "kelabgasing",
   "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
+  "url": "https://kelabgasingbeyblade.my/products/ux-03-wizard-rod-5-70db"
  },
  "kelabgasing:ux-07-phoenix-rudder-deck-set": {
   "key": "kelabgasing:ux-07-phoenix-rudder-deck-set",
@@ -207,14 +159,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
  },
- "kelabgasing:ux-10-customize-set-u": {
-  "key": "kelabgasing:ux-10-customize-set-u",
-  "name": "[ Custom Set ] UX-10 CUSTOMIZE SET U",
-  "price": "MYR 174.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-10-customize-set-u"
- },
  "kelabgasing:ux-14-scorpio-spear-0-70z": {
   "key": "kelabgasing:ux-14-scorpio-spear-0-70z",
   "name": "[ Starter ] UX-14 SCORPIO SPEAR 0-70Z",
@@ -222,13 +166,5 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
- },
- "kelabgasing:ux-20-glory-valkyrie-lf": {
-  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
-  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
-  "price": "MYR 89.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
