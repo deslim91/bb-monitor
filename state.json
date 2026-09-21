@@ -111,6 +111,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-02-wizard-arc-r4-55lo"
  },
+ "kelabgasing:cx-07-pegasus-blast-atr": {
+  "key": "kelabgasing:cx-07-pegasus-blast-atr",
+  "name": "[ Starter ] CX-07 PEGASUS BLAST ATR",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-07-pegasus-blast-atr"
+ },
  "kelabgasing:cx-09-sol-eclipse-d5-70tk": {
   "key": "kelabgasing:cx-09-sol-eclipse-d5-70tk",
   "name": "[ Starter ] CX-09 SOL ECLIPSE D5-70TK",
@@ -118,14 +126,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-09-sol-eclipse-d5-70tk"
- },
- "kelabgasing:cx-12-phoenix-flare-z9-80ww": {
-  "key": "kelabgasing:cx-12-phoenix-flare-z9-80ww",
-  "name": "[ Booster ] CX-12 PHOENIX FLARE Z9-80WW",
-  "price": "MYR 52.90",
-  "site": "kelabgasing",
-  "status": "out_of_stock",
-  "url": "https://kelabgasingbeyblade.my/products/cx-12-phoenix-flare-z9-80ww"
  },
  "kelabgasing:cx-13-bahamutblitz-bk1-50i": {
   "key": "kelabgasing:cx-13-bahamutblitz-bk1-50i",
@@ -158,5 +158,21 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-07-phoenix-rudder-deck-set"
+ },
+ "kelabgasing:ux-10-customize-set-u": {
+  "key": "kelabgasing:ux-10-customize-set-u",
+  "name": "[ Custom Set ] UX-10 CUSTOMIZE SET U",
+  "price": "MYR 174.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-10-customize-set-u"
+ },
+ "kelabgasing:ux-16-clock-mirrage-select": {
+  "key": "kelabgasing:ux-16-clock-mirrage-select",
+  "name": "[ Random Booster ] UX-16 CLOCK MIRRAGE SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
  }
 }
