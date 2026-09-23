@@ -15,6 +15,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/beyblade-x-lanyards"
  },
+ "kelabgasing:bx-04-knight-shield-3-80n": {
+  "key": "kelabgasing:bx-04-knight-shield-3-80n",
+  "name": "[ Starter ] BX-04 KNIGHT SHIELD 3-80N",
+  "price": "MYR 79.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-04-knight-shield-3-80n"
+ },
  "kelabgasing:bx-10-xtreme-stadium": {
   "key": "kelabgasing:bx-10-xtreme-stadium",
   "name": "[ Stadium ] BX-10 XTREME STADIUM",
@@ -30,6 +38,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
+ },
+ "kelabgasing:bx-23-phoenix-wing-9-60gf": {
+  "key": "kelabgasing:bx-23-phoenix-wing-9-60gf",
+  "name": "[ Starter ] BX-23 PHOENIX WING 9-60GF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-23-phoenix-wing-9-60gf"
  },
  "kelabgasing:bx-25-gear-case-black-ver": {
   "key": "kelabgasing:bx-25-gear-case-black-ver",
@@ -134,6 +150,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
+ },
+ "kelabgasing:cx-17-random-booster-vol10": {
+  "key": "kelabgasing:cx-17-random-booster-vol10",
+  "name": "[ Random Booster ] CX-17 RANDOM BOOSTER VOL.10",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
  },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
