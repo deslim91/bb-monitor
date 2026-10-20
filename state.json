@@ -23,6 +23,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-11-launcher-grip"
  },
+ "kelabgasing:bx-23-phoenix-wing-9-60gf": {
+  "key": "kelabgasing:bx-23-phoenix-wing-9-60gf",
+  "name": "[ Starter ] BX-23 PHOENIX WING 9-60GF",
+  "price": "MYR 89.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-23-phoenix-wing-9-60gf"
+ },
  "kelabgasing:bx-25-gear-case-black-ver": {
   "key": "kelabgasing:bx-25-gear-case-black-ver",
   "name": "[ Gear Case ] BX-25 GEAR CASE BLACK VER.",
@@ -79,6 +87,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-43-gear-case-white-ver"
  },
+ "kelabgasing:bx-50-random-booster-vol11": {
+  "key": "kelabgasing:bx-50-random-booster-vol11",
+  "name": "[ Random Booster ] BX-50 RANDOM BOOSTER VOL.11",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-50-random-booster-vol11"
+ },
  "kelabgasing:bx-52-lusterdragoon-6-60lc": {
   "key": "kelabgasing:bx-52-lusterdragoon-6-60lc",
   "name": "[ Starter ] BX-52 LUSTERDRAGOON 6-60LC",
@@ -86,6 +102,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-52-lusterdragoon-6-60lc"
+ },
+ "kelabgasing:cx-01-dran-brave-s6-60v": {
+  "key": "kelabgasing:cx-01-dran-brave-s6-60v",
+  "name": "[ Starter ] CX-01 DRAN BRAVE S6-60V",
+  "price": "MYR 85.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/cx-01-dran-brave-s6-60v"
  },
  "kelabgasing:cx-02-wizard-arc-r4-55lo": {
   "key": "kelabgasing:cx-02-wizard-arc-r4-55lo",
@@ -182,6 +206,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
+ },
+ "kelabgasing:ux-16-clock-mirrage-select": {
+  "key": "kelabgasing:ux-16-clock-mirrage-select",
+  "name": "[ Random Booster ] UX-16 CLOCK MIRRAGE SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
  },
  "kelabgasing:ux-20-glory-valkyrie-lf": {
   "key": "kelabgasing:ux-20-glory-valkyrie-lf",
