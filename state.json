@@ -103,14 +103,6 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-52-lusterdragoon-6-60lc"
  },
- "kelabgasing:cx-01-dran-brave-s6-60v": {
-  "key": "kelabgasing:cx-01-dran-brave-s6-60v",
-  "name": "[ Starter ] CX-01 DRAN BRAVE S6-60V",
-  "price": "MYR 85.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/cx-01-dran-brave-s6-60v"
- },
  "kelabgasing:cx-02-wizard-arc-r4-55lo": {
   "key": "kelabgasing:cx-02-wizard-arc-r4-55lo",
   "name": "[ Starter ] CX-02 WIZARD ARC R4-55LO",
@@ -206,13 +198,5 @@
   "site": "kelabgasing",
   "status": "out_of_stock",
   "url": "https://kelabgasingbeyblade.my/products/ux-16-clock-mirrage-select"
- },
- "kelabgasing:ux-20-glory-valkyrie-lf": {
-  "key": "kelabgasing:ux-20-glory-valkyrie-lf",
-  "name": "[ Starter ] UX-20 GLORY VALKYRIE LF",
-  "price": "MYR 89.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-20-glory-valkyrie-lf"
  }
 }
