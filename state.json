@@ -1,4 +1,12 @@
 {
+ "kelabgasing:beyblade-x-round-hand-fan": {
+  "key": "kelabgasing:beyblade-x-round-hand-fan",
+  "name": "[ Hand Fan ] BEYBLADE X ROUND HAND FAN",
+  "price": "MYR 999.99",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-round-hand-fan"
+ },
  "kelabgasing:bx-04-knight-shield-3-80n": {
   "key": "kelabgasing:bx-04-knight-shield-3-80n",
   "name": "[ Starter ] BX-04 KNIGHT SHIELD 3-80N",
@@ -54,6 +62,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-34-cobalt-dragoon-2-60c"
+ },
+ "kelabgasing:bx-35-random-booster-vol4": {
+  "key": "kelabgasing:bx-35-random-booster-vol4",
+  "name": "[ Random Booster ] BX-35 RANDOM BOOSTER VOL.4",
+  "price": "MYR 54.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-35-random-booster-vol4"
  },
  "kelabgasing:bx-39-shelter-drake-select": {
   "key": "kelabgasing:bx-39-shelter-drake-select",
