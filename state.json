@@ -223,6 +223,30 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
  },
+ "kelabgasing:pre-order-beyblade-x-the-sure-win-magazine": {
+  "key": "kelabgasing:pre-order-beyblade-x-the-sure-win-magazine",
+  "name": "[ Book ] PRE-ORDER BEYBLADE X THE SURE WIN MAGAZINE",
+  "price": "MYR 39.90",
+  "site": "kelabgasing",
+  "status": "preorder",
+  "url": "https://kelabgasingbeyblade.my/products/pre-order-beyblade-x-the-sure-win-magazine"
+ },
+ "kelabgasing:pre-order-bx-54-siegsuperion-0-70lp": {
+  "key": "kelabgasing:pre-order-bx-54-siegsuperion-0-70lp",
+  "name": "[ Booster ] PRE-ORDER BX-54 SIEGSUPERION 0-70LP",
+  "price": "MYR 49.90",
+  "site": "kelabgasing",
+  "status": "preorder",
+  "url": "https://kelabgasingbeyblade.my/products/pre-order-bx-54-siegsuperion-0-70lp"
+ },
+ "kelabgasing:pre-order-cx-20-customize-set-c": {
+  "key": "kelabgasing:pre-order-cx-20-customize-set-c",
+  "name": "[ Custom Set ] PRE-ORDER CX-20 CUSTOMIZE SET C",
+  "price": "MYR 169.90",
+  "site": "kelabgasing",
+  "status": "preorder",
+  "url": "https://kelabgasingbeyblade.my/products/pre-order-cx-20-customize-set-c"
+ },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
   "name": "[ Booster ] UX-03 WIZARD ROD 5-70DB",
