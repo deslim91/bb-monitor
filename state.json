@@ -71,6 +71,22 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-40-winder-launcher-l"
  },
+ "kelabgasing:bx-41-rubber-customize-grip-gunmetal-ver": {
+  "key": "kelabgasing:bx-41-rubber-customize-grip-gunmetal-ver",
+  "name": "[ Grip ] BX-41 RUBBER CUSTOMIZE GRIP GUNMETAL VER",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-41-rubber-customize-grip-gunmetal-ver"
+ },
+ "kelabgasing:bx-42-rubber-customize-grip-blue-ver": {
+  "key": "kelabgasing:bx-42-rubber-customize-grip-blue-ver",
+  "name": "[ Grip ] BX-42 RUBBER CUSTOMIZE GRIP BLUE VER",
+  "price": "MYR 44.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-42-rubber-customize-grip-blue-ver"
+ },
  "kelabgasing:bx-43-gear-case-white-ver": {
   "key": "kelabgasing:bx-43-gear-case-white-ver",
   "name": "[ Gear Case ] BX-43 GEAR CASE WHITE VER",
@@ -167,6 +183,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
  },
+ "kelabgasing:cx-19-random-booster-croco-tread-select": {
+  "key": "kelabgasing:cx-19-random-booster-croco-tread-select",
+  "name": "[ Random Booster ] CX-19 RANDOM BOOSTER CROCO TREAD SELECT",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-19-random-booster-croco-tread-select"
+ },
  "kelabgasing:cx-20-customize-set-c": {
   "key": "kelabgasing:cx-20-customize-set-c",
   "name": "[ Custom Set ] CX-20 CUSTOMIZE SET C",
@@ -214,6 +238,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
+ },
+ "kelabgasing:ux-15-shark-scale-deck-set": {
+  "key": "kelabgasing:ux-15-shark-scale-deck-set",
+  "name": "[ Deck Set ] UX-15 SHARK SCALE DECK SET",
+  "price": "MYR 129.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/ux-15-shark-scale-deck-set"
  },
  "kelabgasing:ux-16-clock-mirrage-select": {
   "key": "kelabgasing:ux-16-clock-mirrage-select",
