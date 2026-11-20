@@ -95,6 +95,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-43-gear-case-white-ver"
  },
+ "kelabgasing:bx-50-random-booster-vol11": {
+  "key": "kelabgasing:bx-50-random-booster-vol11",
+  "name": "[ Random Booster ] BX-50 RANDOM BOOSTER VOL.11",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/bx-50-random-booster-vol11"
+ },
  "kelabgasing:bx-52-lusterdragoon-6-60lc": {
   "key": "kelabgasing:bx-52-lusterdragoon-6-60lc",
   "name": "[ Starter ] BX-52 LUSTERDRAGOON 6-60LC",
@@ -102,6 +110,14 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/bx-52-lusterdragoon-6-60lc"
+ },
+ "kelabgasing:bx-53-all-in-one-set": {
+  "key": "kelabgasing:bx-53-all-in-one-set",
+  "name": "[ All In One Set ] BX-53 ALL IN ONE SET",
+  "price": "MYR 329.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/bx-53-all-in-one-set"
  },
  "kelabgasing:bx-54-siegsuperion-0-70lp": {
   "key": "kelabgasing:bx-54-siegsuperion-0-70lp",
@@ -183,6 +199,14 @@
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-16-start-dash-set-c"
  },
+ "kelabgasing:cx-17-random-booster-vol10": {
+  "key": "kelabgasing:cx-17-random-booster-vol10",
+  "name": "[ Random Booster ] CX-17 RANDOM BOOSTER VOL.10",
+  "price": "MYR 52.90",
+  "site": "kelabgasing",
+  "status": "out_of_stock",
+  "url": "https://kelabgasingbeyblade.my/products/cx-17-random-booster-vol10"
+ },
  "kelabgasing:cx-19-random-booster-croco-tread-select": {
   "key": "kelabgasing:cx-19-random-booster-croco-tread-select",
   "name": "[ Random Booster ] CX-19 RANDOM BOOSTER CROCO TREAD SELECT",
@@ -230,14 +254,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/ux-11-impact-drake-9-60lr"
- },
- "kelabgasing:ux-14-scorpio-spear-0-70z": {
-  "key": "kelabgasing:ux-14-scorpio-spear-0-70z",
-  "name": "[ Starter ] UX-14 SCORPIO SPEAR 0-70Z",
-  "price": "MYR 85.90",
-  "site": "kelabgasing",
-  "status": "unknown",
-  "url": "https://kelabgasingbeyblade.my/products/ux-14-scorpio-spear-0-70z"
  },
  "kelabgasing:ux-15-shark-scale-deck-set": {
   "key": "kelabgasing:ux-15-shark-scale-deck-set",
