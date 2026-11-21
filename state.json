@@ -1,4 +1,12 @@
 {
+ "kelabgasing:beyblade-x-the-sure-win-magazine": {
+  "key": "kelabgasing:beyblade-x-the-sure-win-magazine",
+  "name": "[ Book ] BEYBLADE X THE SURE WIN MAGAZINE",
+  "price": "MYR 39.90",
+  "site": "kelabgasing",
+  "status": "unknown",
+  "url": "https://kelabgasingbeyblade.my/products/beyblade-x-the-sure-win-magazine"
+ },
  "kelabgasing:bx-04-knight-shield-3-80n": {
   "key": "kelabgasing:bx-04-knight-shield-3-80n",
   "name": "[ Starter ] BX-04 KNIGHT SHIELD 3-80N",
@@ -214,14 +222,6 @@
   "site": "kelabgasing",
   "status": "unknown",
   "url": "https://kelabgasingbeyblade.my/products/cx-20-customize-set-c"
- },
- "kelabgasing:pre-order-beyblade-x-the-sure-win-magazine": {
-  "key": "kelabgasing:pre-order-beyblade-x-the-sure-win-magazine",
-  "name": "[ Book ] PRE-ORDER BEYBLADE X THE SURE WIN MAGAZINE",
-  "price": "MYR 39.90",
-  "site": "kelabgasing",
-  "status": "preorder",
-  "url": "https://kelabgasingbeyblade.my/products/pre-order-beyblade-x-the-sure-win-magazine"
  },
  "kelabgasing:ux-03-wizard-rod-5-70db": {
   "key": "kelabgasing:ux-03-wizard-rod-5-70db",
